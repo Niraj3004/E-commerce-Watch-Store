@@ -1,7 +1,5 @@
 # Trendio Times - High-Quality Watch E-commerce Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 Trendio Times is a sophisticated e-commerce website dedicated to showcasing and selling premium watches. We offer a curated selection of stylish and functional timepieces from renowned brands such as Rolex, Cartier, and Patek Philippe. Our platform is designed with a modern and user-friendly interface, ensuring a seamless and engaging shopping experience across all devices.
